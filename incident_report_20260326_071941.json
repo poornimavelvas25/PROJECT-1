@@ -1,0 +1,11 @@
+{
+  "analysis_timestamp": "2026-03-26T07:19:41.890634",
+  "total_alerts": 0,
+  "suspicious_ips": [],
+  "threat_alerts": [],
+  "statistics": {
+    "total_apache_entries": 6,
+    "total_ssh_entries": 4,
+    "blacklisted_ips": 1564
+  }
+}
